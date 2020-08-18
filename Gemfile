@@ -5,7 +5,7 @@ source "http://rubygems.org"
 
 # Add dependencies to develop your gem here.
 # Include everything needed to run rake, tests, features, etc.
-gem 'httparty', '0.12.0'
+gem 'httparty', '0.17.3'
 
 group :development do
   gem "bundler"
